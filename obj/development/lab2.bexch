@@ -1,0 +1,54 @@
+[GENERATED OBJECT FILE]
+b__lab2.o
+[PROJECT FILES]
+/home/sabermaster/lab2/lab2.gpr
+20240314180720 6438b8fc353bc1b2be27ff9fc2a9b31b
+/home/sabermaster/lab2/alire/cache/dependencies/embedded_components_0.2.0_37c39b23/config/embedded_components_config.gpr
+20240314180543 c73b978eff099d67e90c9248e472098b
+/home/sabermaster/lab2/alire/cache/dependencies/embedded_components_0.2.0_37c39b23/embedded_components.gpr
+20240314180538 50ef476b945ab5a4fcd98760783d64d6
+/home/sabermaster/lab2/alire/cache/dependencies/stm32f429disco_0.1.0_3c54b8f0/config/stm32f429disco_config.gpr
+20240314180543 6266cd714a26b9dc856a75fe424fb458
+/home/sabermaster/lab2/alire/cache/dependencies/stm32f429disco_0.1.0_3c54b8f0/stm32f429disco.gpr
+20240314180541 217c5c7da3d0ece51bffa0ecdd1f80ef
+/home/sabermaster/lab2/alire/cache/dependencies/cortex_m_0.5.0_39667d15/config/cortex_m_config.gpr
+20240314180543 031073db00cf2a46e0352e11a5d3d066
+/home/sabermaster/lab2/alire/cache/dependencies/cortex_m_0.5.0_39667d15/cortex_m.gpr
+20240314180538 efe625f63fa9bd8ced24510cea14f288
+/home/sabermaster/lab2/alire/cache/dependencies/stm32_hal_0.1.0_e9150be9/config/stm32_hal_config.gpr
+20240314180543 a84c040d68ebecce9aa216a167f748f3
+/home/sabermaster/lab2/alire/cache/dependencies/stm32_hal_0.1.0_e9150be9/stm32_hal.gpr
+20240314180540 575855e5681e0e7c876e78632951f7c4
+/home/sabermaster/lab2/alire/cache/dependencies/hal_0.3.0_095ae514/hal.gpr
+20240314180536 ef4f56114bdcd0371e8534f2865ed05b
+/home/sabermaster/lab2/alire/cache/dependencies/adl_middleware_0.2.0_623c6913/config/adl_middleware_config.gpr
+20240314180543 5357b4dffbae9e033c77a04c1fb2a818
+/home/sabermaster/lab2/alire/cache/dependencies/adl_middleware_0.2.0_623c6913/adl_middleware.gpr
+20240314180537 c069d7f2da4aa43dae4e27ea98f7ab4d
+/home/sabermaster/lab2/alire/cache/dependencies/stm32_gui_0.1.0_e2e5c9d4/config/stm32_gui_config.gpr
+20240314180543 568d0f287869c4fde067838c2f32bd15
+/home/sabermaster/lab2/alire/cache/dependencies/stm32_gui_0.1.0_e2e5c9d4/stm32_gui.gpr
+20240314180540 06e2bed92daa738a92238481957e8927
+/home/sabermaster/lab2/config/lab2_config.gpr
+20240314180543 2c1e6399df3b2f0ee879a55c918a0a63
+[BOUND OBJECT FILES]
+/home/sabermaster/lab2/obj/development/lab2.o
+[GENERATED SOURCE FILES]
+b__lab2.ads
+b__lab2.adb
+b__lab2.ali
+[RESULTING OPTIONS]
+-L/home/sabermaster/lab2/obj/development/
+-L/home/sabermaster/lab2/obj/development/
+-L/home/sabermaster/lab2/alire/cache/dependencies/stm32_gui_0.1.0_e2e5c9d4/lib/
+-L/home/sabermaster/lab2/alire/cache/dependencies/adl_middleware_0.2.0_623c6913/lib/
+-L/home/sabermaster/lab2/alire/cache/dependencies/hal_0.3.0_095ae514/lib/
+-L/home/sabermaster/lab2/alire/cache/dependencies/stm32_hal_0.1.0_e9150be9/lib/
+-L/home/sabermaster/lab2/alire/cache/dependencies/cortex_m_0.5.0_39667d15/lib/
+-L/home/sabermaster/lab2/alire/cache/dependencies/stm32f429disco_0.1.0_3c54b8f0/lib/
+-L/home/sabermaster/lab2/alire/cache/dependencies/embedded_components_0.2.0_37c39b23/lib/
+-L/home/sabermaster/.config/alire/cache/dependencies/gnat_arm_elf_12.2.1_9be2ca0e/arm-eabi/lib/gnat/embedded-stm32f429disco/adalib/
+-static
+-static-libgcc
+/home/sabermaster/.config/alire/cache/dependencies/gnat_arm_elf_12.2.1_9be2ca0e/arm-eabi/lib/gnat/embedded-stm32f429disco/adalib/libgnarl.a
+/home/sabermaster/.config/alire/cache/dependencies/gnat_arm_elf_12.2.1_9be2ca0e/arm-eabi/lib/gnat/embedded-stm32f429disco/adalib/libgnat.a
