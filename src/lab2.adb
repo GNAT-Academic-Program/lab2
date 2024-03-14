@@ -83,7 +83,7 @@ procedure Lab2 is
 
       Bitmapped_Drawing.Draw_String
         (Display.Hidden_Buffer (1).all, Start => (0, 0), Msg => Str,
-         Font => BMP_Fonts.Font8x8, Foreground => FG, Background => BG);
+         Font => BMP_Fonts.Font16x24, Foreground => FG, Background => BG);
 
       Display.Update_Layer (1, Copy_Back => True);
    end Print_To_LCD;
