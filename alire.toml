@@ -7,6 +7,7 @@ maintainers = ["Your Name <example@example.com>"]
 maintainers-logins = ["github-username"]
 
 executables = ["lab2"]
+website = "https://github.com/GNAT-Academic-Program/lab2.git"
 [[depends-on]]
 stm32_gui = "0.1.0"
 stm32f429disco = "0.1.0"
