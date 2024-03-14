@@ -51,7 +51,7 @@ RV NO_RELATIVE_DELAY
 RV NO_DYNAMIC_SIZED_OBJECTS
 RV NO_IMPLEMENTATION_PRAGMAS
 
-U lab2%b		lab2.adb		143d6d71 NE OO SU
+U lab2%b		lab2.adb		bba055b6 NE OO SU
 W ada%s			ada.ads			ada.ali
 W ada.real_time%s	a-reatim.adb		a-reatim.ali
 Z ada.strings.text_buffers%s  a-sttebu.adb	a-sttebu.ali
@@ -109,7 +109,7 @@ D interfac.ads		20220929111741 edec285f interfaces%s
 D i-stm32.ads		20220929111741 2ad0960b interfaces.stm32%s
 D i-stm32-pwr.ads	20220929111741 4a098e84 interfaces.stm32.pwr%s
 D l3gd20.ads		20240314180538 ca110b0d l3gd20%s
-D lab2.adb		20240314182515 b41bbac0 lab2%b
+D lab2.adb		20240314183333 1b868207 lab2%b
 D memory_mapped_bitmap.ads  20240314180537 b0310810 memory_mapped_bitmap%s
 D ravenscar_time.ads	20240314180541 7a23edc6 ravenscar_time%s
 D soft_drawing_bitmap.ads  20240314180537 e11f4ff7 soft_drawing_bitmap%s
@@ -220,11 +220,11 @@ X 16 bitmapped_drawing.ads
 52r7 Start{22|68R9} 37|85r41
 53a7 Msg{string} 37|85r58
 54e7 Font{17|46E9} 37|86r10
-55r7 Foreground{22|87R9} 37|86r37
-56r7 Background{22|87R9} 37|86r55
+55r7 Foreground{22|87R9} 37|86r39
+56r7 Background{22|87R9} 37|86r57
 X 17 bmp_fonts.ads
 44K9*BMP_Fonts 74e14 37|7w6 86r18
-46n22*Font8x8{46E9} 37|86r28
+46n42*Font16x24{46E9} 37|86r28
 X 18 framebuffer_ili9341.ads
 46U14*Initialize 37|93s12
 X 19 framebuffer_ltdc.ads
@@ -282,8 +282,8 @@ X 37 lab2.adb
 49U17 Configure_Analog_Input 49b17 53l11 53t33 56s7
 77U14 Print_To_LCD 77b14 77>28 89l8 89t20 97s7
 77a28 Str{string} 85r65
-78r7 BG{22|87R9} 81r45 86r69
-79r7 FG{22|87R9} 86r51
+78r7 BG{22|87R9} 81r45 86r71
+79r7 FG{22|87R9} 86r53
 90m4 voltage{33|79M9} 96m7 97r35
 X 41 stm32.ads
 39K9*STM32 37|1r6 1r24 2r6 2r24 5r6 5r23 8r6 8r23 41|48e10
